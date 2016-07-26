@@ -2,7 +2,7 @@
 
 
 
-This is a social Netowkring website which is build Using Spring MVC,JavaScript and MongoDB at the Backend.
+This is a social Networking website which is build Using Spring MVC,JavaScript and MongoDB at the Backend.
 
 
 Steps to Configure it in your system :
