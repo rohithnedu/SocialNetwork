@@ -1,0 +1,12 @@
+0:0:0:0:0:0:0:1 - - [21/Apr/2016:00:00:25 -0400] "GET /SE-project-team-six/ HTTP/1.1" 200 6279 http-bio-8080-exec-1 406
+0:0:0:0:0:0:0:1 - - [21/Apr/2016:00:00:25 -0400] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-2 4
+0:0:0:0:0:0:0:1 - - [21/Apr/2016:00:01:15 -0400] "POST /SE-project-team-six/doRegister HTTP/1.1" 200 21 http-bio-8080-exec-3 198
+0:0:0:0:0:0:0:1 - - [21/Apr/2016:00:01:16 -0400] "GET /SE-project-team-six/continue HTTP/1.1" 200 5630 http-bio-8080-exec-4 97
+0:0:0:0:0:0:0:1 - - [21/Apr/2016:00:02:07 -0400] "POST /SE-project-team-six/newsFeed HTTP/1.1" 500 13927 http-bio-8080-exec-5 10802
+0:0:0:0:0:0:0:1 - - [21/Apr/2016:00:07:09 -0400] "GET /SE-project-team-six/continue HTTP/1.1" 200 5630 http-bio-8080-exec-6 5
+0:0:0:0:0:0:0:1 - - [21/Apr/2016:00:07:36 -0400] "POST /SE-project-team-six/newsFeed HTTP/1.1" 200 5913 http-bio-8080-exec-7 1586
+0:0:0:0:0:0:0:1 - - [21/Apr/2016:01:45:04 -0400] "POST /SE-project-team-six/logout HTTP/1.1" 200 6279 http-bio-8080-exec-9 6
+0:0:0:0:0:0:0:1 - - [21/Apr/2016:01:45:10 -0400] "GET /SE-project-team-six/continue HTTP/1.1" 200 5584 http-bio-8080-exec-10 3
+0:0:0:0:0:0:0:1 - - [21/Apr/2016:01:45:12 -0400] "POST /SE-project-team-six/newsFeed HTTP/1.1" 200 5913 http-bio-8080-exec-10 519
+0:0:0:0:0:0:0:1 - - [21/Apr/2016:01:45:17 -0400] "POST /SE-project-team-six/logout HTTP/1.1" 200 6279 http-bio-8080-exec-10 5
+0:0:0:0:0:0:0:1 - - [21/Apr/2016:01:45:26 -0400] "GET /SE-project-team-six/ HTTP/1.1" 200 6279 http-bio-8080-exec-10 3
