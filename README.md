@@ -15,3 +15,6 @@ Steps to Configure it in your system :
 
 
 4) DO a Maven Build and run using "mvn clean install tomcat7:run"
+
+
+This Project was done as part of the Software Engineering Coursework along with my Team Members 1)SUjeet Kumar (2) Suraj Songire and (3)Amol Bhagwat
